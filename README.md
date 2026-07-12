@@ -1,15 +1,13 @@
 # 🚀 About Me:
 
-- 👋 Hi, my name is Sandeep Sajeev Nair and I'm a Mechatronics Engineering graduate from the University of Waterloo.
-- 👀 I'm interested in AI agents, full-stack development, and real-time software.
-- 💼 Currently a Software Developer, most recently at Recursion Pharmaceuticals building AI-powered internal agents.
-- 🌍 How to reach me:
+**Software Developer | Mechatronics Engineer | Building AI-powered systems**
 
-  LinkedIn: [linkedin.com/in/SandeepSajeevNair](https://linkedin.com/in/SandeepSajeevNair)
+I'm a recent graduate from the University of Waterloo (Mechatronics Engineering, Honours Co-op) with experience building AI agents, full-stack web apps, and data pipelines across pharma, finance, and product companies.
 
-  GitHub: [github.com/SandeepNair789](https://github.com/SandeepNair789)
-
-  Email: [sandeepsajeevnair@gmail.com](mailto:sandeepsajeevnair@gmail.com)
+- 🎓 BASc Mechatronics Engineering, University of Waterloo (2021–2026), Graduated with Distinction
+- 💼 Most recently Software Developer at Recursion Pharmaceuticals, building an AI-powered internal agent
+- 🌱 Interested in agentic AI systems, LLM tooling, and real-time software
+- 📫 Reach me at [sandeepsajeevnair@gmail.com](mailto:sandeepsajeevnair@gmail.com)
 
 ## 💻 Tech Stack:
 
@@ -47,13 +45,8 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=SandeepNair789&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=SandeepNair789&theme=dark&hide_border=true)
+![](https://streak-stats.demolab.com/?user=SandeepNair789&theme=radical&hide_border=true)
 
-#### 🏆 GitHub Trophies
+## 🚀 Capstone Project
 
-![](https://github-profile-trophy.vercel.app/?username=SandeepNair789&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
-
-## 🚀 Featured Project
-
-**EduTron — AI Teaching Assistant** — Capstone project: a FastAPI backend on Raspberry Pi integrating OpenAI GPT, Whisper, MediaPipe & ElevenLabs for real-time multimodal classroom AI. 99.4% curriculum coverage, 79% comprehension accuracy, on hardware under $250 CAD.
+**EduTron — AI Teaching Assistant** — a FastAPI backend on Raspberry Pi integrating OpenAI GPT, Whisper, MediaPipe & ElevenLabs for real-time multimodal classroom AI. 99.4% curriculum coverage, 79% comprehension accuracy, on hardware under $250 CAD.
